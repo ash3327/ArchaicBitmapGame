@@ -1,0 +1,15 @@
+res/texture/tools.png
+res/texture/itemsCol.png
+32, 32 #Width, Height
+# Name, texX, texY, numFrame
+select, 0, 32, 1
+selectarea, 96, 32, 1
+fill, 192, 32, 1
+erase, 288, 32, 1
+zoomin, 384, 32, 1
+zoomout, 480, 32, 1
+uplvl, 576, 32, 1
+downlvl, 672, 32, 1
+deletelvl, 768, 32, 1
+addlvl, 864, 32, 1
+brush, 960, 32, 1

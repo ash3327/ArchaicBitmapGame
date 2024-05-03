@@ -1,0 +1,10 @@
+Directions
+0 - Left
+1 - Right
+2 - up
+3 - down
+*Note that: Direction 0 and 1 shares the same sprite image file
+Sprites
+0 - Hero
+1 - Stairs Down
+2 - Stairs Up

@@ -1,0 +1,11 @@
+res/texture/tabs.png
+res/texture/itemsCol.png
+96, 32 #Width, Height
+# Name, texX, texY, numFrame
+Load+Map, 144, 112, 1 
+Save+Map, 240, 112, 1
+Back, 336, 112, 1
+Load+Game, 432, 112, 1 
+Save+Game, 528, 112, 1
+Info, 624, 112, 1
+Help, 816, 112, 1
